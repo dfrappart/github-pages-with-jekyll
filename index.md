@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This ismy learning page of Github page ^^
 
-I'm glad you are here. I plan to talk about ...
+Hopefully i'll be able to use it for all my article :D
